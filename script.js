@@ -99,6 +99,3 @@ arr.forEach(task => {
         b.count++;
     }
 });
-
-console.log('выполнено (a):', a);
-console.log('невыполнено (b):', b);
